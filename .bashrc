@@ -123,7 +123,8 @@ export PS1="\[$(tput bold)\]\[\033[38;5;32m\]\u\[$(tput sgr0)\]\[$(tput sgr0)\]\
 #Alias
 alias la='ls -a'
 alias rm='rm --preserve-root'
-alias p='python'
+alias p='python3'
+alias python='python3'
 
 #Export
 export EDITOR=vim
