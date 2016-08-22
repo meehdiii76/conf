@@ -125,6 +125,7 @@ alias la='ls -a'
 alias rm='rm --preserve-root'
 alias p='python3'
 alias python='python3'
+alias dus='du -sh'
 
 #Export
 export EDITOR=vim
