@@ -121,5 +121,9 @@ alias dus='du -sh'
 #Export
 export EDITOR=vim
 export TERM=xterm-256color
+#Autocomplete
+bind 'set show-all-if-ambiguous on'
+bind 'TAB:menu-complete'
+
 
 #Terminal font : xfont-terminus
