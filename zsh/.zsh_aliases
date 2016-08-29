@@ -1,0 +1,11 @@
+alias la='ls -a'
+alias l='ls -CF'
+
+alias rm='rm --preserve-root'
+
+alias p='python3'
+alias p2='python2'
+alias p3='python3'
+alias python='python3'
+
+alias dus='du -sh'
