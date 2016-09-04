@@ -10,4 +10,4 @@ alias python='python3'
 
 alias dus='du -sh'
 #Debug python
-alias pdebug ='python3 -m pudb.run"
+alias pdebug ='python3 -m pudb.run'
